@@ -7,7 +7,7 @@
 
 </br>
 
-On your computer you will need to install the following. This markdown will help you to do that.
+On your computer you will need to install the a number of things to use React Native. This markdown will help you to do that.
 
 </br>
 
@@ -48,6 +48,8 @@ You should already have Ruby since you're on a Mac. But we need [cocoapods](http
 ```bash
 sudo gem install cocoapods
 ```
+
+If you get an error about having the incorrect Ruby Version, follow the instructions in [this resource](https://zameermfm.medium.com/solve-mac-ruby-issues-in-react-native-installations-355fb5800ee0) to install rbenv and the correct Ruby version for React Native development.
 
 **Only do this next step if you're on a Silicon M1 or M2 Mac**
 
