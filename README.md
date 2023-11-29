@@ -114,8 +114,7 @@ java -version
 
 Download the correct Android Studio for your Mac architecture from the links below.
 
-- Intel Chip - [Android Studio Bumblebee for Intel](https://redirector.gvt1.com/edgedl/android/studio/install/2021.1.1.23/android-studio-2021.1.1.23-mac.dmg)
-- M1 or M2 Silicon Chip - [Android Studio Bumblebee for Silicon](https://redirector.gvt1.com/edgedl/android/studio/install/2021.1.1.23/android-studio-2021.1.1.23-mac_arm.dmg)
+- SELECT THE VERSION THAT MATCHES YOUR CHIP - [Android Studio]([https://redirector.gvt1.com/edgedl/android/studio/install/2021.1.1.23/android-studio-2021.1.1.23-mac.dmg](https://developer.android.com/studio?utm_source=android-studio))
 
 That download is probably going to take a while. It's big. While we wait, let's get the XCode download going.
 
@@ -123,7 +122,7 @@ That download is probably going to take a while. It's big. While we wait, let's 
 
 Dowload XCode from the link below.
 
-- [XCode 14](https://developer.apple.com/xcode/)
+- [XCode](https://developer.apple.com/xcode/)
 
 This is also going to take a while. 
 
